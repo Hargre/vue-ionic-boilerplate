@@ -1,0 +1,7 @@
+{
+  "name": "vue-ionic-boilerplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
